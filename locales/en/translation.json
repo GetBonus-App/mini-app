@@ -70,13 +70,12 @@
     "select_amount": "Select amount",
     "buy": "Buy",
     "buy_for": "Buy for",
+    "buy_stars": "Buy Telegram Stars",
     "special_offer": "Special offer",
     "i_decline_the_offer": "I decline the offer",
-
-    "0_1_paid_completed": "To complete the output — complete the task with a reward in Stars (0/1)",
+    "0_1_paid_completed": "To complete the output — complete the task with a reward in Telegram Stars (0/1)",
     "next_withdraw_paid": "The next output will be available after completing the task with a reward in Stars.",
     "vpn_notification": "Make sure that the VPN is turned off. This is necessary for the correct operation of GetBonus.",
-
     "referralProgramTitle": "How does the referral program work?",
     "whatIsUnverifiedVerified": "What does Unverified and Verified mean?",
     "unverifiedDescription": "Unverified — an invited friend who has not yet completed any tasks with a Stars reward. They do not count towards the progress bar, but you immediately receive 1 dragon.",
@@ -85,8 +84,26 @@
     "dragonReward": "1 dragon for each friend — whether Verified or Unverified.",
     "levelBonuses": "Level bonuses — tickets, coins, and more. Check the 'Gift' button next to the progress bar.",
     "referralEarnings": "Referral earnings — from level 7 onward, you receive a percentage of the Stars they earn. Example: if your friend earns 100 Stars, you receive 2 Stars.",
-
     "how_it_works": "How It Works?",
-    "more": "More"
+    "more": "More",
+    "dragon_levels": "Dragon Levels",
+    "upgrade_for": "Upgrade for",
+    "minimum_amount": "Minimum amount is",
+    "stars_invoice_1": "You successfully added Stars to your account!",
+    "stars_invoice_2": "You cancelled payment!",
+    "stars_invoice_3": "Payment failed!",
+    "stars_invoice_4": "Payment is on the way",
+    "on_your_balance": "on your balance",
+    "dragons": "Dragons",
+    "stars": "Telegram Stars",
+    "processing": "Processing",
+    "success": "Success",
+    "failed": "Failed",
+    "unknown_error": "Unknown error",
+    "your_telegram_account": "Your Telegram account",
+    "in_progress": "In Progress",
+    "completed": "Completed",
+    "ref_verified": "Verified",
+    "ref_unverified": "Unverified"
 
 }

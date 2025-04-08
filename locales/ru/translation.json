@@ -70,13 +70,12 @@
     "select_amount": "Выберите сумму",
     "buy": "Купить",
     "buy_for": "Купить за",
+    "buy_stars": "Купить Telegram Stars",
     "special_offer": "Специальное предложение",
     "i_decline_the_offer": "Я отказываюсь от предложения",
-
-    "0_1_paid_completed": "Чтобы совершить вывод — выполните задание с наградой в Stars (0/1)",
+    "0_1_paid_completed": "Чтобы совершить вывод — выполните задание с наградой в Telegram Stars (0/1)",
     "next_withdraw_paid": "Следующий вывод будет доступен после выполнения задания с наградой в Stars.",
     "vpn_notification": "Убедитесь, что VPN отключен. Это необходимо для корректной работы GetBonus.",
-
     "referralProgramTitle": "Как работает реферальная программа?",
     "whatIsUnverifiedVerified": "Что значит Unverified и Verified?",
     "unverifiedDescription": "Unverified — приглашённый друг, который ещё не выполнил задания с наградой в Stars. Он не считается в шкале, но вы сразу получаете 1 дракончика.",
@@ -85,8 +84,25 @@
     "dragonReward": "1 дракончик за каждого друга — и Verified, и Unverified.",
     "levelBonuses": "Бонусы за уровни — билеты, монеты и другое. Смотри по кнопке «Подарок» возле шкалы.",
     "referralEarnings": "Доход от рефералов — с 7 уровня вы получаете процент от Stars, которые они зарабатывают. Пример: если друг заработал 100 Stars, вы получаете 2 Stars.",
-
     "how_it_works": "Как это работает?",
-    "more": "Больше"
-
+    "more": "Больше",
+    "dragon_levels": "Уровни дракона",
+    "upgrade_for": "Прокачать за",
+    "minimum_amount": "Минимальная сумма",
+    "stars_invoice_1": "Вы успешно добавили Stars на ваш счёт!",
+    "stars_invoice_2": "Вы отменили платеж!",
+    "stars_invoice_3": "Платёж не удался!",
+    "stars_invoice_4": "Платёж в пути",
+    "on_your_balance": "на вашем балансе",
+    "dragons": "Драконы",
+    "stars": "Telegram Stars",
+    "processing": "Обработка",
+    "success": "Успешно",
+    "failed": "Не удалось",
+    "unknown_error": "Неизвестная ошибка",
+    "your_telegram_account": "Ваш Telegram-аккаунт",
+    "in_progress": "В процессе",
+    "completed": "Завершено",
+    "ref_verified": "Подтверждён",
+    "ref_unverified": "Неподтверждён"
 }

@@ -104,5 +104,12 @@
     "in_progress": "В процессе",
     "completed": "Завершено",
     "ref_verified": "Подтверждён",
-    "ref_unverified": "Неподтверждён"
+    "ref_unverified": "Неподтверждён",
+    "activate_promocode": "Активировать промокод",
+    "promocode_activated": "Промокод активирован!",
+    "promocode_not_found": "Промокод не найден",
+    "promocode_finished": "Промокод завершён",
+    "you_already_activated_promocode": "Вы уже активировали этот промокод",
+    "wait_24h_to_activate": "Подождите 24 часа, чтобы активировать другой промокод",
+    "enter_promocode": "Введите промокод"
 }

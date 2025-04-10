@@ -104,6 +104,12 @@
     "in_progress": "In Progress",
     "completed": "Completed",
     "ref_verified": "Verified",
-    "ref_unverified": "Unverified"
-
+    "ref_unverified": "Unverified",
+    "activate_promocode": "Activate Promocode",
+    "promocode_activated": "Promocode activated!",
+    "promocode_not_found": "Promocode not found",
+    "promocode_finished": "Promocode finished",
+    "you_already_activated_promocode": "You already activated this promocode",
+    "wait_24h_to_activate": "Wait 24 hours to activate another promocode",
+    "enter_promocode": "Enter promocode"
 }

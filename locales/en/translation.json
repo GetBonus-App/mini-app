@@ -22,7 +22,7 @@
     "Dragon Levels": "Dragon Levels",
     "Home": "Home",
     "Dragon": "Dragon",
-    "Shop": "Shop",
+    "Inventory": "Inventory",
     "SOON": "SOON",
     "Friends": "Friends",
     "Profile": "Profile",
@@ -85,6 +85,7 @@
     "You don't have enough dragons for this Wheel! To get dragons, complete tasks or collect daily rewards!": "You don't have enough dragon coins for this Wheel! To get coins, complete tasks or collect daily rewards!",
     "Fortune": "Fortune",
     "Spin for 25": "Spin for 25",
+    "Spin for 1": "Spin for 1",
     "If you have completed the task, it is being checked, and if not, you can return to completing it.": "If you have completed the task, it is being checked, and if not, you can return to completing it.",
     "Deposit successful!": "Deposit successful!",
     "Go back": "Go back",
@@ -140,5 +141,14 @@
     "Swap": "Swap",
     "Successfully swapped!": "Successfully swapped!",
     "Select the amount": "Select the amount",
-    "available": "available"
+    "available": "available",
+    
+    "Gift": "Gift",
+    "Convert to": "Convert to",
+    "Withdraw gift": "Withdraw gift",
+    "Price": "Price",
+    "Type": "Type",
+    "Promocode copied to clipboard": "Promocode copied to clipboard",
+    "Valid until": "Valid until",
+    "View in inventory": "View in inventory"
 }

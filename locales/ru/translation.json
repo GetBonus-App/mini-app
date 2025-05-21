@@ -22,7 +22,7 @@
   "Dragon Levels": "Уровни дракона",
   "Home": "Главная",
   "Dragon": "Дракон",
-  "Shop": "Магазин",
+  "Inventory": "Инвентарь",
   "SOON": "СКОРО",
   "Friends": "Друзья",
   "Profile": "Профиль",
@@ -85,6 +85,7 @@
   "You don't have enough dragons for this Wheel! To get dragons, complete tasks or collect daily rewards!": "У вас недостаточно монет дракона для этого Колеса! Чтобы получить их, выполняйте задания или собирайте ежедневные награды!",
   "Fortune": "Фортуна",
   "Spin for 25": "Прокрутить за 25",
+  "Spin for 1": "Прокрутить за 1",
   "If you have completed the task, it is being checked, and if not, you can return to completing it.": "Если вы выполнили задание, оно уже на проверке, а если нет - вы можете вернуться к его выполнению.",
   "Go back": "Вернуться на главную",
   "Details": "Детали",
@@ -139,5 +140,14 @@
   "Swap": "Обмен",
   "Successfully swapped!": "Успешный обмен!",
   "Select the amount": "Выберите сумму",
-  "available": "доступно"
+  "available": "доступно",
+
+    "Gift": "Подарок",
+    "Convert to": "Конвертировать в",
+    "Withdraw gift": "Вывести подарок",
+    "Price": "Цена",
+    "Type": "Тип",
+    "Promocode copied to clipboard": "Промокод скопирован в буфер обмена",
+    "Valid until": "Действителен до",
+    "View in inventory": "Посмотреть в инвентаре"
 }

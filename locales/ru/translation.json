@@ -142,12 +142,13 @@
   "Select the amount": "Выберите сумму",
   "available": "доступно",
 
-    "Gift": "Подарок",
-    "Convert to": "Конвертировать в",
-    "Withdraw gift": "Вывести подарок",
-    "Price": "Цена",
-    "Type": "Тип",
-    "Promocode copied to clipboard": "Промокод скопирован в буфер обмена",
-    "Valid until": "Действителен до",
-    "View in inventory": "Посмотреть в инвентаре"
+  "Gift": "Подарок",
+  "Convert to": "Конвертировать в",
+  "Withdraw gift": "Вывести подарок",
+  "Price": "Цена",
+  "Type": "Тип",
+  "Promocode copied to clipboard": "Промокод скопирован в буфер обмена",
+  "Valid until": "Действителен до",
+  "View in inventory": "Посмотреть в инвентаре",
+  "You don't have enough tickets to spin this Wheel! To get tickets, complete tasks with the corresponding reward.": "У вас недостаточно билетов для прокрутки этого Колеса! Для получения билетов, выполняйте задания с соответствующей наградой."
 }

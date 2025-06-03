@@ -84,6 +84,7 @@
   "The referral must complete at least one task with a reward of TG Stars.": "Реферал должен выполнить хотя бы одно задание с наградой в Telegram Stars.",
   "You don't have enough dragons for this Wheel! To get dragons, complete tasks or collect daily rewards!": "У вас недостаточно монет дракона для этого Колеса! Чтобы получить их, выполняйте задания или собирайте ежедневные награды!",
   "Fortune": "Фортуна",
+  "Spin for 50": "Прокрутить за 50",
   "Spin for 25": "Прокрутить за 25",
   "Spin for 1": "Прокрутить за 1",
   "If you have completed the task, it is being checked, and if not, you can return to completing it.": "Если вы выполнили задание, оно уже на проверке, а если нет - вы можете вернуться к его выполнению.",
@@ -152,5 +153,7 @@
   "View in inventory": "Посмотреть в инвентаре",
   "You don't have enough tickets to spin this Wheel! To get tickets, complete tasks with the corresponding reward.": "У вас недостаточно билетов для прокрутки этого Колеса! Для получения билетов, выполняйте задания с соответствующей наградой.",
   "Copied to clipboard": "Скопировано в буфер обмена",
-  "Activate promocode": "Активировать промокод"
+  "Activate promocode": "Активировать промокод",
+
+  "You don't have enough stars to spin this Wheel! To get stars, complete tasks!": "У вас недостаточно Stars для прокрутки этого Колеса! Чтобы получить Stars, выполняйте задания!"
 }

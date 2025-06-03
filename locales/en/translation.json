@@ -84,6 +84,7 @@
     "The referral must complete at least one task with a reward of TG Stars.": "The referral must complete at least one task with a reward in TG Stars.",
     "You don't have enough dragons for this Wheel! To get dragons, complete tasks or collect daily rewards!": "You don't have enough dragon coins for this Wheel! To get coins, complete tasks or collect daily rewards!",
     "Fortune": "Fortune",
+    "Spin for 50": "Spin for 50",
     "Spin for 25": "Spin for 25",
     "Spin for 1": "Spin for 1",
     "If you have completed the task, it is being checked, and if not, you can return to completing it.": "If you have completed the task, it is being checked, and if not, you can return to completing it.",
@@ -153,5 +154,7 @@
     "View in inventory": "View in inventory",
     "You don't have enough tickets to spin this Wheel! To get tickets, complete tasks with the corresponding reward.": "You don't have enough tickets to spin this Wheel! To get tickets, complete tasks with the corresponding reward.",
     "Copied to clipboard": "Copied to clipboard",
-    "Activate promocode": "Activate promocode"
+    "Activate promocode": "Activate promocode",
+
+    "You don't have enough stars to spin this Wheel! To get stars, complete tasks!": "You don't have enough stars to spin this Wheel! To get stars, complete tasks!"
 }

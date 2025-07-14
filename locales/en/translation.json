@@ -84,6 +84,7 @@
     "The referral must complete at least one task with a reward of TG Stars.": "The referral must complete at least one task with a reward in TG Stars.",
     "You don't have enough dragons for this Wheel! To get dragons, complete tasks or collect daily rewards!": "You don't have enough dragon coins for this Wheel! To get coins, complete tasks or collect daily rewards!",
     "Fortune": "Fortune",
+    "Spin for 100": "Spin for 100",
     "Spin for 50": "Spin for 50",
     "Spin for 25": "Spin for 25",
     "Spin for 1": "Spin for 1",
@@ -118,7 +119,7 @@
 
     "Next step": "Next step",
     "Hello! Welcome to GetBonus. My name is Red, and I'm going to quickly tell you what we have here.": "Hello! Welcome to GetBonus. My name is Red, and I'm going to quickly tell you what we have here.",
-    "Here you can monitor your balances, go to the withdrawal, deposit and Wheel of Fortune screen.": "Here you can monitor your balances, go to the withdrawal, deposit and Wheel of Fortune screen.",
+    "Here you can monitor your balances, go to the withdrawal, deposit and inventory screen.": "Here you can monitor your balances, go to the withdrawal, deposit and inventory screen.",
     "Here is the most pleasant part of the application - tasks with a reward in Stars. Choose a task to your taste, complete it and get Stars, which you can withdraw!": "Here is the most pleasant part of the application - tasks with a reward in Stars. Choose a task to your taste, complete it and get Stars, which you can withdraw!",
     "This is the quest screen, here you can learn more about the quest: rewards, instructions for completing it, and other information.": "This is the quest screen, here you can learn more about the quest: rewards, instructions for completing it, and other information.",
     "Complete tasks following the instructions in this block. Wait for verification and get your rewards!": "Complete tasks following the instructions in this block. Wait for verification and get your rewards!",
@@ -156,5 +157,55 @@
     "Copied to clipboard": "Copied to clipboard",
     "Activate promocode": "Activate promocode",
 
-    "You don't have enough stars to spin this Wheel! To get stars, complete tasks!": "You don't have enough stars to spin this Wheel! To get stars, complete tasks!"
+    "You don't have enough stars to spin this Wheel! To get stars, complete tasks!": "You don't have enough stars to spin this Wheel! To get stars, complete tasks!",
+
+    "Dragons Wheel": "Dragons Wheel",
+    "Stars Wheel": "Stars Wheel",
+    "Gift Wheel": "Gift Wheel",
+    "Roulette": "Roulette",
+    "Manage subscription": "Manage subscription",
+    "Active until": "Active until",
+    "Click here to get one right now!": "Click here to get one right now!",
+    "Your subscription ends in": "Your subscription ends in",
+    "days": "days",
+
+    "This task is available by subscription only.": "This task is available by subscription only.",
+    "Withdrawals are available with subscription only.": "Withdrawals are available with subscription only.",
+    "Roulette is available with subscription only.": "Wheel is available with subscription only.",
+    "This task is available with subscription only.": "This task is available with subscription only.",
+    "Premium subscription": "Premium subscription",
+    "Daily reward is available with subscription only.": "Daily reward is available with subscription only.",
+    "Swap TON is available with subscription only.": "Swap TON is available with subscription only.",
+    "Claiming rewards is available with subscription only.": "Claiming rewards is available with subscription only.",
+
+    "Subscribe for": "Subscribe for",
+    "and gain access to withdrawals, exclusive tasks, and the opportunity to earn up to 10,000 Stars.": "and gain access to withdrawals, exclusive tasks, and the opportunity to earn up to 10,000 Stars.",
+    "You have purchased a GetBonus subscription for 30 days!": "You have purchased a GetBonus subscription for 30 days!",
+    "Activate for": "Activate for",
+    "Your subscription has been extended for another 30 days!": "Your subscription has been extended for another 30 days!",
+    "Add 30 days more for 150": "Add 30 days more for 150",
+
+    "New tasks every week.": "New tasks every week",
+    "Access to withdraw Telegram Stars.": "Access to withdraw Telegram Stars",
+    "Subscription is valid for 30 days.": "Subscription is valid for 30 days",
+    "Access to daily rewards.": "Access to daily rewards",
+    "Access to the Dragon Wheel.": "Access to the Dragon Wheel",
+    "Access to the Gift Wheel.": "Access to the Gift Wheel",
+    "Star Wheel Spin with a 50% discount.": "Star Wheel Spin with a 50% discount",
+    "Instant withdrawal (soon...)": "Instant withdrawal (soon...)",
+
+    "Two times cheaper": "Two times cheaper",
+    "with Premium": "with Premium",
+
+    "Promocodes": "Promocodes",
+    "Financial Services": "Financial Services",
+    "Telecommunications": "Telecommunications",
+    "Education": "Education",
+    "Special": "Special",
+    "App": "App",
+    "Food & Delivery": "Food & Delivery",
+    "Subscriptions & Services": "Subscriptions & Services",
+    "Social": "Social",
+    "WEB3": "WEB3",
+    "Entertainment": "Entertainment"
 }

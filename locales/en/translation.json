@@ -72,13 +72,15 @@
     "FAQ": "FAQ",
     "faq_steps": {
         "title": "How does the referral program work?",
-        "subtitle_1": "What do Unactivated and Activated mean?",
-        "subval_1_1": "Unactivated — a friend you invited who hasn’t completed any tasks with a Stars reward yet. They don’t count toward your referral progress bar, but you still instantly get 1 dragon coin for them.",
-        "subval_1_2": "Activated — a friend who has completed at least one task with reward in Stars. They count toward your referral level and help you progress.",
-        "subtitle_2": "What rewards can you get?",
-        "subval_2_1": "1 dragon coin for every invited user — for Activated and Unactivated.",
-        "subval_2_2": "Bonus rewards for reaching new referral levels — like tickets, dragon coins, and more.",
-        "subval_2_3": "Referral income — from level 7, you receive a percentage of the Stars they earn. Example: if a friend earned 100 Stars, you get 2 Stars."
+    
+        "subtitle_1": "Progress scale",
+        "subval_1_1": "Only active referrals are counted — those who have completed a task with a reward of 50 XP. Bonuses and rewards are credited for them in the 'Gift' section.",
+        
+        "subtitle_2": "Referral rewards",
+        "subval_2_1": "1 dragon coin for each invited friend.",
+        "subval_2_2": "Level bonuses: Stars, dragon coins. Click 'Gift' next to the referral scale to view rewards at each level.",
+        "subval_2_3": "Percentage of Stars earned by your referrals. For example, if your referral earned 100 Stars for completing a task, and your share is 5%, you will receive 5 Stars.",
+        "subval_2_4": "Percentage of referrals' subscriptions — you also earn if they subscribe. For example, with a subscription costing 150 Stars and your share being 10%, you will receive 15 Stars in your balance."
     },
     "You haven't invited anyone yet.": "You haven't invited anyone yet.",
     "The referral must complete at least one task with a reward of TG Stars.": "The referral must complete at least one task with a reward in TG Stars.",
@@ -207,5 +209,24 @@
     "Subscriptions & Services": "Subscriptions & Services",
     "Social": "Social",
     "WEB3": "WEB3",
-    "Entertainment": "Entertainment"
+    "Entertainment": "Entertainment",
+    
+    "Ref. share for tasks": "Ref. share for tasks",
+    "Ref. share for subscriptions": "Ref. share for subscriptions",
+    "Earned total": "Earned total",
+    "Invited users": "Invited users",
+    "Statistics": "Statistics",
+    "Earned during all time": "Earned during all time",
+    "Invite & earn": "Invite & earn",
+    "Invite friends using your link to level up and unlock rewards!": "Invite friends using your link to level up and unlock rewards!",
+    "Copy": "Copy",
+
+    "Referral share for tasks": "Referral share for tasks",
+    "For completing a task by your referral, you receive a percentage of their reward. For example, if they earned 100 Stars and your share is 5%, you will receive 5 Stars.": "For completing a task by your referral, you receive a percentage of their reward. For example, if they earned 100 Stars and your share is 5%, you will receive 5 Stars.",
+
+    "Referral share for subscriptions": "Referral share for subscriptions",
+    "For your referral's subscription in the app (150 Stars), you receive a percentage of the amount. For example, with a subscription worth 150 Stars and your share being 10%, you will receive 15 Stars.": "For your referral's subscription in the app (100 Stars), you receive a percentage of the amount. For example, with a subscription worth 150 Stars and your share being 10%, you will receive 15 Stars.",
+
+    "Total Stars earned from referrals": "Total Stars earned from referrals",
+    "The total number of Stars you have earned from all your referrals: from tasks and subscriptions.": "The total number of Stars you have earned from all your referrals: from tasks and subscriptions."
 }

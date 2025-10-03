@@ -574,5 +574,10 @@
   "Subscription time is running out. Extend it and keep earning.": "Время подписки на исходе. Продли и продолжи зарабатывать.",
   "left": "осталось",
   "valid until": "действует до",
-  "Continue": "Продолжить"
+  "Continue": "Продолжить",
+
+    "d": "д",
+    "h": "ч",
+    "m": "м",
+    "s": "с"
 }

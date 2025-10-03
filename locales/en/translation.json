@@ -576,5 +576,10 @@
     "Subscription time is running out. Extend it and keep earning.": "Subscription time is running out. Extend it and keep earning.",
     "left": "left",
     "valid until": "valid until",
-    "Continue": "Continue"
+    "Continue": "Continue",
+
+    "d": "d",
+    "h": "h",
+    "m": "m",
+    "s": "s"
 }

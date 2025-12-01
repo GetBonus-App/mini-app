@@ -262,7 +262,7 @@
   "Tasks in category": "Задания в категории",
   "Requirements for completion": "Требования для выполнения",
   "In Progress": "В процессе",
-  "Verify": "Верифицированный",
+  "Verify": "Проверить",
   "Complete Task": "Выполнить задание",
   "Done": "Выполнено",
   "Your Telegram Account": "Ваш телеграм-аккаунт",
@@ -579,5 +579,11 @@
     "d": "д",
     "h": "ч",
     "m": "м",
-    "s": "с"
+    "s": "с",
+
+    "Withdraw TON": "Вывод TON",
+    "Withdraw TON to crypto wallet": "Вывести на Ваш криптокошелек",
+    "Minimum amount — 0.5 TON": "Минимальная сумма — 0.5 TON",
+    "Your TON wallet": "Ваш TON кошелек",
+    "After creating a withdrawal request, TON will be sent to your wallet within 24 hours.": "После создания запроса на вывод TON, они будут отправлены вам в течение 24 часов."
 }

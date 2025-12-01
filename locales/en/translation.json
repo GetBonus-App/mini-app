@@ -581,5 +581,11 @@
     "d": "d",
     "h": "h",
     "m": "m",
-    "s": "s"
+    "s": "s",
+
+    "Withdraw TON": "Withdraw TON",
+    "Withdraw TON to crypto wallet": "Withdraw to your crypto wallet",
+    "Minimum amount — 0.5 TON": "Minimum amount — 0.5 TON",
+    "Your TON wallet": "Your TON wallet",
+    "After creating a withdrawal request, TON will be sent to your wallet within 24 hours.": "After creating a withdrawal request, TON will be sent to your wallet within 24 hours."
 }

@@ -323,15 +323,14 @@
     "FAQ": "FAQ",
     "faq_steps": {
         "title": "How does the referral program work?",
-    
-        "subtitle_1": "Progress scale",
-        "subval_1_1": "Only active referrals are counted — those who have completed a task with a reward of 50 XP. Bonuses and rewards are credited for them in the 'Gift' section.",
-        
-        "subtitle_2": "Referral rewards",
-        "subval_2_1": "You earn Stars for inviting friends. Starting from Level 2, you’ll also receive 🎟 tickets to use in the Gift Wheel.",
-        "subval_2_2": "Level bonuses: Stars, dragon coins. Click 'Gift' next to the referral scale to view rewards at each level.",
-        "subval_2_3": "Percentage of Stars earned by your referrals. For example, if your referral earned 100 Stars for completing a task, and your share is 5%, you will receive 5 Stars.",
-        "subval_2_4": "Percentage of referrals' subscriptions — you also earn if they subscribe. For example, with a subscription costing 150 Stars and your share being 10%, you will receive 15 Stars in your balance."
+        "subval_2_1": "You can earn income by inviting friends through: filling the progress bar, completing tasks, and purchasing GetBonus Premium.",
+
+        "subtitle_1": "Progress Bar",
+        "subval_1_1": "All users you invite are counted. Upon reaching each level (maximum level is 10), you’ll receive a fixed reward in Telegram Stars and free days of GetBonus Premium.",
+
+        "subtitle_2": "Referral Rewards",
+        "subval_2_2": "Percentage from completed tasks: You earn 25% of the reward from EVERY task completed by your referral.",
+        "subval_2_3": "Percentage from GetBonus Premium purchases: You earn 10% from every GetBonus Premium purchase made by your referral."
     },
     "You haven't invited anyone yet.": "You haven't invited anyone yet.",
     "The referral must complete at least one task with a reward of TG Stars.": "The referral must complete at least one task with a reward in TG Stars.",
@@ -478,10 +477,10 @@
     "Copy": "Copy",
 
     "Referral share for tasks": "Referral share for tasks",
-    "For completing a task by your referral, you receive a percentage of their reward. For example, if they earned 100 Stars and your share is 5%, you will receive 5 Stars.": "For completing a task by your referral, you receive a percentage of their reward. For example, if they earned 100 Stars and your share is 5%, you will receive 5 Stars.",
+    "For completing a task by your referral, you receive a percentage of their reward. For example, if they earned 100 Stars and your share is 5%, you will receive 5 Stars.": "Invite friends and earn 25% from every task they complete! Example: Your referral completes a task and earns 10 TON. Your referral reward will be 2.5 TON.",
 
     "Referral share for subscriptions": "Referral share for subscriptions",
-    "For your referral's subscription in the app (150 Stars), you receive a percentage of the amount. For example, with a subscription worth 150 Stars and your share being 10%, you will receive 15 Stars.": "For your referral's subscription in the app (100 Stars), you receive a percentage of the amount. For example, with a subscription worth 150 Stars and your share being 10%, you will receive 15 Stars.",
+    "For your referral's subscription in the app (150 Stars), you receive a percentage of the amount. For example, with a subscription worth 150 Stars and your share being 10%, you will receive 15 Stars.": "Get 10% off EVERY Premium purchase with your referrals! The reward is awarded in Telegram Stars.",
 
     "Total Stars earned from referrals": "Total Stars earned from referrals",
     "The total number of Stars you have earned from all your referrals: from tasks and subscriptions.": "The total number of Stars you have earned from all your referrals: from tasks and subscriptions.",
